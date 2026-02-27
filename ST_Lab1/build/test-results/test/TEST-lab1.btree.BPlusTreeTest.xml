@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Полное покрытие BPlusTree (100% Coverage)" tests="11" skipped="0" failures="0" errors="0" timestamp="2026-02-27T08:21:23" hostname="MacBook-Pro-7.local" time="0.035">
+  <properties/>
+  <testcase name="6. Поиск по всем ветвям InternalNode" classname="lab1.btree.BPlusTreeTest" time="0.017"/>
+  <testcase name="9. Исключения в пустых узлах (getFirstLeafKey)" classname="lab1.btree.BPlusTreeTest" time="0.001"/>
+  <testcase name="5. Разделение внутреннего узла (INTERNAL_SPLIT)" classname="lab1.btree.BPlusTreeTest" time="0.0"/>
+  <testcase name="10. Покрытие метода getPath" classname="lab1.btree.BPlusTreeTest" time="0.001"/>
+  <testcase name="8. Покрытие веток InternalNode.insert (idx &gt;= 0)" classname="lab1.btree.BPlusTreeTest" time="0.0"/>
+  <testcase name="1. Валидация всех конструкторов" classname="lab1.btree.BPlusTreeTest" time="0.004"/>
+  <testcase name="3. Обработка дубликатов" classname="lab1.btree.BPlusTreeTest" time="0.001"/>
+  <testcase name="11. Граничные условия циклов и пустые результаты" classname="lab1.btree.BPlusTreeTest" time="0.0"/>
+  <testcase name="2. Базовая вставка и поиск" classname="lab1.btree.BPlusTreeTest" time="0.004"/>
+  <testcase name="4. Разделение листа (LEAF_SPLIT)" classname="lab1.btree.BPlusTreeTest" time="0.0"/>
+  <testcase name="7. Вставка в начало и середину списка (binarySearch)" classname="lab1.btree.BPlusTreeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
